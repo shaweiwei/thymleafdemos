@@ -1,0 +1,43 @@
+.layui-layout-body{
+	background: #5FB878;
+}
+.layui-form-label{
+	font-weight:bold;
+	color: #009688;
+}
+h1{
+	font-size: 30px; 
+	padding-left:20px;
+	padding-top:20px;
+	color: #393D49;
+}
+h1 i{
+	padding-right:20px;
+}
+.layui-icon{
+	font-size: 30px;
+    color: #393D49;
+}
+.register{
+	width:400px;
+	height:450px;
+	background: #F0F0F0;
+	border-radius: 4px; 
+	margin: 20px auto;
+	margin-bottom:0px;
+	padding-top:30px;
+}
+.layui-btn{
+	width:190px;
+}
+.layui-footer{
+	height:50px;
+	margin-top:26px;
+	background: #ccc;
+}
+.layui-footer p{
+	height:50px;
+	line-height:50px;
+	text-align:center;
+	color:black;
+}

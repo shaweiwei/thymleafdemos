@@ -1,0 +1,1 @@
+springboot+thymeleaf打war包在外部tomcat运行 https://www.cnblogs.com/shamo89/p/9585536.html

@@ -1,0 +1,48 @@
+.layui-layout-body{
+	background: #5FB878;
+}
+.layui-form-item{
+	padding-bottom: 20px;
+}
+.layui-form-label{
+	font-weight:bold;
+	color: #009688;
+}
+a{
+	text-decoration: none;
+	color: #fff;
+}
+h1{
+	font-size: 60px; 
+	color: #393D49;
+	padding:100px 0 0 100px;
+}
+h1 i{
+	padding-right:20px;
+}
+.layui-icon{
+	font-size: 60px;
+    color: #393D49;
+}
+.login{
+	width:400px;
+	height:300px;
+	background: #F0F0F0;
+	border-radius: 4px; 
+	margin: 50px 0 0 0;
+	padding-top:100px;
+}
+.layui-btn{
+	width:88px;
+}
+.layui-footer{
+	height:50px;
+	margin-top:80px;
+	background: #ccc;
+}
+.layui-footer p{
+	height:50px;
+	line-height:50px;
+	text-align:center;
+	color:black;
+}
